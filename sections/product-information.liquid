@@ -85,7 +85,13 @@
       {% endif %}
     {% endfor %}
   </div>
-
+  
+  {% if product.metafields.custom.long_description %}
+    <div class="product-long-description">
+      {{ product.metafields.custom.long_description | metafield_text }}
+    </div>
+  {% endif %}
+  
   {% content_for 'blocks' %}
 </div>
 
