@@ -16,7 +16,7 @@
           "type": "text",
           "name": "Title",
           "settings": {
-            "text": "",
+            "text": "<p>B2B</p>",
             "width": "100%",
             "max_width": "normal",
             "alignment": "left",
@@ -40,6 +40,7 @@
         },
         "page-content": {
           "type": "page-content",
+          "disabled": true,
           "settings": {},
           "blocks": {}
         }
