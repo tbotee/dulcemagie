@@ -1,0 +1,38 @@
+{% schema %}
+{
+  "name": "Footer Three Columns",
+  "settings": [
+    { "type": "text", "id": "column1_heading", "label": "Column 1 Heading", "default": "About Us" },
+    { "type": "textarea", "id": "column1_text", "label": "Column 1 Text", "default": "Write something about your store here." },
+
+    { "type": "text", "id": "column2_heading", "label": "Column 2 Heading", "default": "Contact" },
+    { "type": "textarea", "id": "column2_text", "label": "Contact Info", "default": "Email: info@store.com\nPhone: +1 123-456-7890" },
+
+    { "type": "text", "id": "column3_heading", "label": "Column 3 Heading", "default": "Quick Links" },
+    { "type": "link_list", "id": "quick_links", "label": "Quick Links Menu" }
+  ]
+}
+{% endschema %}
+
+<footer class="footer-three-columns" style="padding: 40px 0; background: #f5f5f5;">
+  <div class="page-width" style="display: flex; gap: 30px; justify-content: space-between;">
+    <div class="footer-col">
+      <h4>{{ section.settings.column1_heading }}</h4>
+      <p>{{ section.settings.column1_text }}</p>
+    </div>
+
+    <div class="footer-col">
+      <h4>{{ section.settings.column2_heading }}</h4>
+      <p>{{ section.settings.column2_text | newline_to_br }}</p>
+    </div>
+
+    <div class="footer-col">
+      <h4>{{ section.settings.column3_heading }}</h4>
+      <ul>
+        {% for link in linklists[section.settings.quick_links].links %}
+          <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</footer>
