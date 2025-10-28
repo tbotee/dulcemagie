@@ -16,7 +16,7 @@
           "type": "text",
           "name": "Title",
           "settings": {
-            "text": "<h1>Gallery</h1>",
+            "text": "<h1>Galerie</h1>",
             "width": "100%",
             "max_width": "normal",
             "alignment": "left",
