@@ -79,7 +79,7 @@
                 "text_rARY7m": {
                   "type": "text",
                   "settings": {
-                    "text": "<h2>Lucrăm la ceva grozav! Magazinul va fi din nou online în curând.</h2>",
+                    "text": "<p>Dulce magie - farmecul momentelor dulci</p>",
                     "width": "100%",
                     "max_width": "none",
                     "alignment": "center",
@@ -265,7 +265,7 @@
           "type": "text",
           "name": "t:names.heading",
           "settings": {
-            "text": "<p><br/>Lucrăm la ceva grozav! Magazinul va fi din nou online în curând.<br/><br/>Pentru comenzi, ne poți suna la 0742 083 338<br/><br/></p>",
+            "text": "<p>Gusturi dulci. Magie pură.</p>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
