@@ -362,7 +362,20 @@
         "processing": "Se procesează...",
         "remove_chip": "Elimină articol",
         "remove_item": "Elimină {{ label }}",
-        "remove_tag": "Elimină eticheta"
+        "remove_tag": "Elimină eticheta",
+        "forwarding_indicator": {
+          "new_window": "Se deschide într-o fereastră nouă",
+          "external": "Se deschide site extern",
+          "external_and_new_window": "Se deschide site extern într-o fereastră nouă"
+        },
+        "checkout_context": {
+          "step_one": "{{ shop_name }} - Finalizare comandă"
+        },
+        "errors": {
+          "only_empty_terms_accepted": "Această politică acceptă doar termeni goi",
+          "session_identifier_not_unique_error": "Ceva a mers prost cu comanda ta, te rugăm să încerci din nou finalizarea comenzii.",
+          "line_item_limit_reached": "A fost atins numărul maxim de articole pe linie."
+        }
       }
     }
   }
