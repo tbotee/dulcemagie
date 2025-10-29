@@ -359,7 +359,10 @@
         "autocomplete_zero_item": "Niciun articol disponibil",
         "autocomplete_powered_by_google": "Oferit de {{ brandName }}",
         "submit": "Trimite",
-        "processing": "Se procesează..."
+        "processing": "Se procesează...",
+        "remove_chip": "Elimină articol",
+        "remove_item": "Elimină {{ label }}",
+        "remove_tag": "Elimină eticheta"
       }
     }
   }
