@@ -349,7 +349,17 @@
         "loading": "Se încarcă...",
         "loading_title": "Finalizare comandă - {{shopName}}",
         "google_map_title": "Hartă Google",
-        "confirm_order_button_label": "Confirmă comanda"
+        "confirm_order_button_label": "Confirmă comanda",
+        "submit_order_button_label": "Trimite comanda",
+        "submit_for_review_button_label": "Trimite pentru verificare",
+        "submit_for_review_notice_label": "Plata nu va fi necesară până când comanda ta este verificată",
+        "continue_to_payment_plans_button_label": "Continuă la planurile de plată",
+        "back_button_label": "Înapoi",
+        "choose_delivery_strategy": "Alege o metodă de livrare",
+        "autocomplete_zero_item": "Niciun articol disponibil",
+        "autocomplete_powered_by_google": "Oferit de {{ brandName }}",
+        "submit": "Trimite",
+        "processing": "Se procesează..."
       }
     }
   }
