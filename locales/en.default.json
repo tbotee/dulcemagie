@@ -36,7 +36,7 @@
     "play_video": "Redă video",
     "loading_product_recommendations": "Se încarcă recomandările de produse",
     "rating": "Evaluarea acestui produs este {{ rating }} din 5",
-    "remove_item": "Remove {{ title}}",
+    "remove_item": "Elimină {{ title}}",
     "reset_search": "Reset search",
     "scroll_to": "Scroll to {{ title }}",
     "search_results_count": "{{ count }} search results found for \"{{ query }}\"",
