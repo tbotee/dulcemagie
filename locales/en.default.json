@@ -17,8 +17,8 @@
     "country_results_count": "{{ total }} rezultate",
     "decrease_quantity": "Reducere cantitate",
     "discount": "Aplică cod de reducere",
-    "discount_menu": "Discount Codes",
-    "discount_applied": "Applied discount code: {{ code }}",
+    "discount_menu": "Meniu reduceri",
+    "discount_applied": "Cod de reducere aplicat: {{ cod }}",
     "filters": "Filters",
     "filter_count": {
       "one": "{{ count }} filter applied",
