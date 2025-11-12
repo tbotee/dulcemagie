@@ -21,8 +21,8 @@
     "discount_applied": "Cod de reducere aplicat: {{ code }}",
     "filters": "Filtre",
     "filter_count": {
-      "one": "{{ count }} filter applied",
-      "other": "{{ count }} filters applied"
+      "one": "{{ count }} filtru aplicat",
+      "other": "{{ count }} filtre aplicate"
     },
     "increase_quantity": "Mărire cantitate",
     "inventory_status": "Stare stoc",
@@ -47,10 +47,10 @@
     "slide_status": "Slide {{ index }} of {{ length }}",
     "slideshow_next": "Slide următor",
     "slideshow_pause": "Pauză slide",
-    "slideshow_play": "Redare sliduri",
-    "slideshow_previous": "Previous slide",
-    "unit_price": "Unit price",
-    "find_country": "Find country"
+    "slideshow_play": "Redare slideuri",
+    "slideshow_previous": "Slideul anterior",
+    "unit_price": "Preț unitar",
+    "find_country": "Găsește țara"
   },
   "actions": {
     "add": "Add",
