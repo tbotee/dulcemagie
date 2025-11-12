@@ -9,14 +9,14 @@
  */
 {
   "accessibility": {
-    "account": "Account",
-    "cart": "Cart",
-    "cart_count": "Total items in cart",
-    "close_dialog": "Close dialog",
-    "country_region": "Country/Region",
-    "country_results_count": "{{ count }} results",
-    "decrease_quantity": "Decrease quantity",
-    "discount": "Apply a discount code",
+    "account": "Cont",
+    "cart": "Coș",
+    "cart_count": "Articole în coș",
+    "close_dialog": "Închide fereastra",
+    "country_region": "Țară/Regiune",
+    "country_results_count": "{{ total }} rezultate",
+    "decrease_quantity": "Reducere cantitate",
+    "discount": "Aplică cod de reducere",
     "discount_menu": "Discount Codes",
     "discount_applied": "Applied discount code: {{ code }}",
     "filters": "Filters",
