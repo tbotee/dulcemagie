@@ -53,10 +53,10 @@
     "find_country": "Găsește țara"
   },
   "actions": {
-    "add": "Add",
-    "add_to_cart": "Add to cart",
-    "added": "Added",
-    "apply": "Apply",
+    "add": "Adaugă ",
+    "add_to_cart": "Adaugă în coș",
+    "added": "Adăugat ",
+    "apply": "Aplică ",
     "back": "Back",
     "choose": "Choose",
     "clear": "Clear",
