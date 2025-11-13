@@ -68,10 +68,10 @@
     "log_in_html": "Aveți un cont? <a href=\"{{ link }}\">Logați-vă</a> pentru a finaliza comanda mai rapid.",
     "log_in": "Conectează-te ",
     "log_out": "Deconectează-te",
-    "open_image_in_full_screen": "Open image in full screen",
-    "remove": "Remove",
-    "remove_discount": "Remove discount {{ code }}",
-    "show_all_options": "Show all options",
+    "open_image_in_full_screen": "Deschide imaginea pe tot ecranul",
+    "remove": "Elimină",
+    "remove_discount": "Elimină reducerea {{ code }}",
+    "show_all_options": "Afișează toate opțiunile",
     "see_items": {
       "one": "See {{ count }} item",
       "other": "See {{ count }} items"
