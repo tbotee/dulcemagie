@@ -73,8 +73,8 @@
     "remove_discount": "Elimină reducerea {{ code }}",
     "show_all_options": "Afișează toate opțiunile",
     "see_items": {
-      "one": "See {{ count }} item",
-      "other": "See {{ count }} items"
+      "one": "Arată {{ count }} articol",
+      "other": "Arată {{ count }} articole"
     },
     "show_filters": "Filtre",
     "show_less": "Afișează mai puțin",
@@ -89,8 +89,8 @@
     "enter_using_password": "Intră folosind parola",
     "sign_up": "Înregistrează-te",
     "submit": "Trimitere",
-    "view_store_information": "Vizualizează informațiile magazinului",
-    "sort": "Sort"
+    "view_store_information": "Informații magazin",
+    "sort": "Sortează "
   },
   "blocks": {
     "contact_form": {
