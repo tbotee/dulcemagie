@@ -76,9 +76,9 @@
       "one": "See {{ count }} item",
       "other": "See {{ count }} items"
     },
-    "show_filters": "Filter",
-    "show_less": "Show less",
-    "show_more": "Show more",
+    "show_filters": "Filtre",
+    "show_less": "Afișează mai puțin",
+    "show_more": "Afișează mai mult",
     "sign_in_options": "Other sign in options",
     "view_in_your_space": "View in your space",
     "view_all": "View all",
