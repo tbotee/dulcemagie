@@ -242,7 +242,7 @@
     "taxes_included_shipping_at_checkout_with_policy_html": "Taxe incluse. Reducerile și <a href=\"{{ link }}\">livrarea </a>sunt calculate la finalizarea comenzii.",
     "taxes_included_shipping_at_checkout_with_policy_without_discounts_html": "Taxe incluse. Livrarea este calculată la finalizarea comenzii.",
     "taxes_included_shipping_at_checkout_without_policy": "Taxe incluse. Reducerile și livrarea este calculată la finalizarea comenzii.",
-    "taxes_included_shipping_at_checkout_without_policy_without_discounts": "Taxes included. Shipping is calculated at checkout.",
+    "taxes_included_shipping_at_checkout_without_policy_without_discounts": "Taxe incluse. Livrarea este calculată la finalizarea comenzii.",
     "unavailable": "Unavailable",
     "use_fewer_filters_html": "Try using fewer filters, or <a class=\"{{ class }}\" href=\"{{ link }}\">clear all filters</a>.",
     "view_more_details": "View more details",
