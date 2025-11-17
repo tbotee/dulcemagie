@@ -218,7 +218,7 @@
     "search_results": "Rezultate căutare ",
     "search_results_label": "Rezultate căutare ",
     "search_results_no_results": "Nu au fost găsite rezultate pentru \"{{ terms }}\". Încercați o altă căutare.",
-    "search_results_no_results_check_spelling": "No results found for \"{{ terms }}\". Check the spelling or use a different word or phrase.",
+    "search_results_no_results_check_spelling": "Nu au fost găsite rezultate pentru \"{{ terms }}\". Verificați ortografia sau folosiți un alt cuvânt ori o altă expresie.",
     "search_results_resource_articles": "Blog posts",
     "search_results_resource_collections": "Collections",
     "search_results_resource_pages": "Pages",
