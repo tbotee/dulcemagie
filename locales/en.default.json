@@ -256,7 +256,7 @@
     "recipient_form_email_address": "Adresa de e-mail a destinatarului",
     "recipient_form_name_label": "Nume destinatar (opțional)",
     "recipient_form_message": "Mesaj (opțional)",
-    "recipient_form_characters_used": "{{ used_chars }}/{{ max_chars }} characters used",
+    "recipient_form_characters_used": "{{ used_chars }}/{{ max_chars }} caractere folosite",
     "recipient_form_send_on": "YYYY-MM-DD",
     "recipient_form_send_on_label": "Send on (optional)",
     "recipient_form_fields_visible": "Recipient form fields are now visible",
