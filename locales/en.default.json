@@ -219,10 +219,10 @@
     "search_results_label": "Rezultate căutare ",
     "search_results_no_results": "Nu au fost găsite rezultate pentru \"{{ terms }}\". Încercați o altă căutare.",
     "search_results_no_results_check_spelling": "Nu au fost găsite rezultate pentru \"{{ terms }}\". Verificați ortografia sau folosiți un alt cuvânt ori o altă expresie.",
-    "search_results_resource_articles": "Blog posts",
-    "search_results_resource_collections": "Collections",
-    "search_results_resource_pages": "Pages",
-    "search_results_resource_products": "Products",
+    "search_results_resource_articles": "Articole de blog",
+    "search_results_resource_collections": "Colecții ",
+    "search_results_resource_pages": "Pagini",
+    "search_results_resource_products": "Produse",
     "search_results_resource_products_count": {
       "one": "{{ count }} product",
       "other": "{{ count }} products"
