@@ -190,8 +190,8 @@
       "next": "Next",
       "page": "Page {{ page }}"
     },
-    "pickup_available_at_html": "Pickup available at <b>{{ location }}</b>",
-    "pickup_available_in": "Pickup available, {{ pickup_time }}",
+    "pickup_available_at_html": "Ridicare disponibilă la <b>{{ location }}</b>",
+    "pickup_available_in": "Ridicare disponibilă, {{ pickup_time }}",
     "pickup_not_available": "Pickup currently not available",
     "pickup_ready_in": "{{ pickup_time }}",
     "powered_by": "This shop will be powered by",
