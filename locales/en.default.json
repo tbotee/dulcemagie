@@ -106,10 +106,10 @@
       "placeholder": "Adresa de e-mail ",
       "success": "Mulțumim pentru înregistrare!"
     },
-    "filter": "Filter",
-    "load_video": "Load video: {{ description }}",
-    "sold_out": "Sold out",
-    "payment_methods": "Payment methods"
+    "filter": "Filtru",
+    "load_video": "Încarcă video: {{ description }}",
+    "sold_out": "Stoc epuizat",
+    "payment_methods": "Metode de plată"
   },
   "blogs": {
     "article": {
