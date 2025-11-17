@@ -162,10 +162,10 @@
     "featured_products": "Produse recomandate",
     "filters": "Filtre",
     "grid_view": {
-      "default_view": "Default",
-      "grid_fieldset": "Column grid",
-      "single_item": "Single",
-      "zoom_out": "Zoom out"
+      "default_view": "Implicit",
+      "grid_fieldset": "Grilă de coloane",
+      "single_item": "Un singur produs",
+      "zoom_out": "Micșorează"
     },
     "inventory_low_stock_show_count": {
       "one": "{{ count }} left",
