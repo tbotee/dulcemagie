@@ -233,7 +233,7 @@
     "seller_note": "Instrucții speciale",
     "shipping_policy": "Livrarea este calculată la finalizarea comenzii.",
     "shipping_policy_html": "<a href=\"{{ link }}\">Livrarea</a> este calculată la finalizarea comenzii.",
-    "store_owner_link_html": "Are you the store owner? <a href=\"{{ link }}\">Log in here</a>",
+    "store_owner_link_html": "Ești proprietarul magazinului? <a href=\"{{ link }}\">Autentifică aici</a>",
     "taxes_at_checkout_shipping_at_checkout_with_policy_html": "Taxes, discounts and <a href=\"{{ link }}\">shipping</a> calculated at checkout.",
     "taxes_at_checkout_shipping_at_checkout_with_policy_without_discounts_html": "Taxes and <a href=\"{{ link }}\">shipping</a> calculated at checkout.",
     "taxes_at_checkout_shipping_at_checkout_without_policy": "Taxes, discounts and shipping calculated at checkout.",
