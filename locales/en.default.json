@@ -103,8 +103,8 @@
     },
     "email_signup": {
       "label": "Email",
-      "placeholder": "Email address",
-      "success": "Thanks for subscribing!"
+      "placeholder": "Adresa de e-mail ",
+      "success": "Mulțumim pentru înregistrare!"
     },
     "filter": "Filter",
     "load_video": "Load video: {{ description }}",
