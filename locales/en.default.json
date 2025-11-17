@@ -114,21 +114,21 @@
   "blogs": {
     "article": {
       "comments_heading": {
-        "one": "{{ count }} comment",
-        "other": "{{ count }} comments"
+        "one": "{{ count}} comentariu",
+        "other": "{{ count }} comentări "
       },
       "comment_author_separator": "•"
     },
     "comment_form": {
-      "email": "Email",
-      "error": "Comment failed to post, please address the following:",
-      "heading": "Leave a comment",
-      "message": "Message",
-      "moderated": "Please note, comments need to be approved before they are published.",
-      "name": "Name",
-      "post": "Post comment",
-      "success_moderated": "Comment posted, awaiting moderation",
-      "success": "Comment posted"
+      "email": "Adresă de e-mail ",
+      "error": "Comentariul nu a putut fi publicat, vă rugăm să remediați următoarele:",
+      "heading": "Lăsați un comentariu ",
+      "message": "Mesaj",
+      "moderated": "Vă rugăm să rețineți că comentariile trebuie aprobate înainte de a fi publicate.",
+      "name": "Numele ",
+      "post": "Publică comentariul",
+      "success_moderated": "Comentariu publicat, în așteptarea moderării",
+      "success": "Comentariu publicat"
     }
   },
   "content": {
