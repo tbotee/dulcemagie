@@ -157,8 +157,8 @@
     "duties_included": "Taxele vamale sunt incluse.",
     "duties_included_taxes_at_checkout_shipping_at_checkout_with_policy_html": "Taxele vamale sunt incluse. Taxele și reducerile sunt <a href=\"{{ link }}\">shipping</a> calculate la finalizarea comenzii. ",
     "duties_included_taxes_at_checkout_shipping_at_checkout_with_policy_without_discounts_html": "Taxele vamale sunt incluse. Livrarea este calculată la finalizarea comenzii.",
-    "duties_included_taxes_at_checkout_shipping_at_checkout_without_policy": "Duties included. Taxes, discounts and shipping calculated at checkout.",
-    "duties_included_taxes_at_checkout_shipping_at_checkout_without_policy_without_discounts": "Duties included. Shipping is calculated at checkout.",
+    "duties_included_taxes_at_checkout_shipping_at_checkout_without_policy": "Taxele vamale sunt incluse. Taxele, reducerile și livrarea sunt calculate la finalizarea comenzii.",
+    "duties_included_taxes_at_checkout_shipping_at_checkout_without_policy_without_discounts": "Taxele vamale sunt incluse. Livrarea este calculată la finalizarea comenzii.",
     "featured_products": "Featured products",
     "filters": "Filters",
     "grid_view": {
