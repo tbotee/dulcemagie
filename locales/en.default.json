@@ -185,10 +185,10 @@
     "page_placeholder_title": "Titlu pagină ",
     "page_placeholder_content": "Selectați o pagină pentru a afișa conținutul acesteia.",
     "pagination": {
-      "nav_label": "Pagination navigation",
-      "previous": "Previous",
-      "next": "Next",
-      "page": "Page {{ page }}"
+      "nav_label": "Navigare prin paginare",
+      "previous": "Anterior",
+      "next": "Următor",
+      "page": "Pagină {{ page }}"
     },
     "pickup_available_at_html": "Ridicare disponibilă la <b>{{ location }}</b>",
     "pickup_available_in": "Ridicare disponibil, {{ pickup_time }}",
