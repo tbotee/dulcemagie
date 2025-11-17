@@ -173,12 +173,12 @@
     },
     "inventory_low_stock": "Stoc minim",
     "inventory_in_stock": "În stoc",
-    "inventory_out_of_stock": "Out of stock",
+    "inventory_out_of_stock": "Stoc epuizat",
     "item_count": {
       "one": "{{ count }} item",
       "other": "{{ count }} items"
     },
-    "language": "Language",
+    "language": "Limbă",
     "localization_region_and_language": "Region and language",
     "no_products_found": "No products found.",
     "no_results_found": "No results found",
