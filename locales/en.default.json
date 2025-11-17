@@ -197,7 +197,7 @@
     "powered_by": "Acest magazin este susținut de",
     "price": "Preț ",
     "price_compare_at": "Compară prețul la",
-    "price_from": "From {{ price }}",
+    "price_from": "De la {{ preț }}",
     "price_regular": "Regular price",
     "price_sale": "Sale price",
     "price_filter_html": "The highest price is {{ price }}",
