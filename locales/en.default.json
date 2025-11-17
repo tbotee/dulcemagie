@@ -227,9 +227,9 @@
       "one": "{{ count }} product",
       "other": "{{ count }} products"
     },
-    "search_results_resource_queries": "Search suggestions",
-    "search_results_view_all": "View all",
-    "search_results_view_all_button": "View all",
+    "search_results_resource_queries": "Interogări de resurse pentru rezultatele căutării",
+    "search_results_view_all": "Vizualizează tot",
+    "search_results_view_all_button": "Vizualizează tot",
     "seller_note": "Special instructions",
     "shipping_policy": "Shipping calculated at checkout.",
     "shipping_policy_html": "<a href=\"{{ link }}\">Shipping</a> calculated at checkout.",
