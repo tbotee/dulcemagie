@@ -168,8 +168,8 @@
       "zoom_out": "Micșorează"
     },
     "inventory_low_stock_show_count": {
-      "one": "{{ count }} left",
-      "other": "{{ count }} left"
+      "one": "{{ count }} rămas ",
+      "other": "{{ count }} rămas"
     },
     "inventory_low_stock": "Stoc minim",
     "inventory_in_stock": "În stoc",
