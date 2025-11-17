@@ -224,8 +224,8 @@
     "search_results_resource_pages": "Pagini",
     "search_results_resource_products": "Produse",
     "search_results_resource_products_count": {
-      "one": "{{ count }} product",
-      "other": "{{ count }} products"
+      "one": "{{ count }} produs",
+      "other": "{{ count }} produse"
     },
     "search_results_resource_queries": "Interogări de resurse pentru rezultatele căutării",
     "search_results_view_all": "Vizualizează tot",
