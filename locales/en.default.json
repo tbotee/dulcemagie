@@ -258,7 +258,7 @@
     "recipient_form_message": "Mesaj (opțional)",
     "recipient_form_characters_used": "{{ used_chars }}/{{ max_chars }} caractere folosite",
     "recipient_form_send_on": "YYYY-MM-DD",
-    "recipient_form_send_on_label": "Send on (optional)",
+    "recipient_form_send_on_label": "Trimite în (opțional)",
     "recipient_form_fields_visible": "Recipient form fields are now visible",
     "recipient_form_fields_hidden": "Recipient form fields are now hidden",
     "recipient_form_error": "There was an error with the form submission",
