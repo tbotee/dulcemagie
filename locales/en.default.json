@@ -94,8 +94,8 @@
   },
   "blocks": {
     "contact_form": {
-      "name": "Name",
-      "email": "Email",
+      "name": "Nume",
+      "email": "Adresa de e-mail ",
       "phone": "Phone",
       "comment": "Comment",
       "post_success": "Thanks for contacting us. We'll get back to you as soon as possible.",
