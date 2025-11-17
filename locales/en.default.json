@@ -181,9 +181,9 @@
     "language": "Limbă",
     "localization_region_and_language": "Regiune și limbă",
     "no_products_found": "Nu au fost găsite produse.",
-    "no_results_found": "No results found",
-    "page_placeholder_title": "Page title",
-    "page_placeholder_content": "Select a page to display its content.",
+    "no_results_found": "Nu au fost găsite rezultate.",
+    "page_placeholder_title": "Titlu pagină ",
+    "page_placeholder_content": "Selectați o pagină pentru a afișa conținutul acesteia.",
     "pagination": {
       "nav_label": "Pagination navigation",
       "previous": "Previous",
