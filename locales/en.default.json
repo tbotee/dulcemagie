@@ -260,7 +260,7 @@
     "recipient_form_send_on": "YYYY-MM-DD",
     "recipient_form_send_on_label": "Trimite în (opțional)",
     "recipient_form_fields_visible": "Câmpurile formularului destinatarului sunt acum vizibile",
-    "recipient_form_fields_hidden": "Recipient form fields are now hidden",
+    "recipient_form_fields_hidden": "Câmpurile formularului destinatarului sunt ascunse",
     "recipient_form_error": "There was an error with the form submission",
     "product_custom_property_character_count": "{{ used_chars }}/{{ max_chars }} characters used"
   },
