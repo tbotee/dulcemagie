@@ -132,9 +132,9 @@
     }
   },
   "content": {
-    "discount": "Discount",
-    "account_title": "Account",
-    "terms_and_policies": "Terms and Policies",
+    "discount": "Reducere",
+    "account_title": "Cont",
+    "terms_and_policies": "Termene și condiții ",
     "account_title_personalized": "Hi {{ first_name }}",
     "account_orders": "Orders",
     "account_profile": "Profile",
