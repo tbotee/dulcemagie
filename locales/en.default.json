@@ -265,7 +265,7 @@
     "product_custom_property_character_count": "{{ used_chars }}/{{ max_chars }} numărul caracterelor folosite"
   },
   "fields": {
-    "separator": "to"
+    "separator": "către "
   },
   "gift_cards": {
     "issued": {
