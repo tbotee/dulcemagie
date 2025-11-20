@@ -271,14 +271,14 @@
     "issued": {
       "how_to_use_gift_card": "Folosiți codul cardului cadou online sau codul QR în magazin",
       "title": "Iată {{ value }} soldul cardului cadou pentru {{ shop }}!",
-      "subtext": "Your gift card",
-      "shop_link": "Visit online store",
-      "add_to_apple_wallet": "Add to Apple Wallet",
-      "qr_image_alt": "QR code — scan to redeem gift card",
-      "copy_code": "Copy gift card code",
-      "expiration_date": "Expires {{ expires_on }}",
-      "copy_code_success": "Code copied successfully",
-      "expired": "Expired"
+      "subtext": "Cardul tău cadou",
+      "shop_link": "Vizitează magazinul online",
+      "add_to_apple_wallet": "Adaugă în Apple Wallet",
+      "qr_image_alt": "Cod QR — scanați pentru a utiliza cardul cadou",
+      "copy_code": "Copiază codul cardului cadou",
+      "expiration_date": "Expiră {{ expires_on }}",
+      "copy_code_success": "Cod copiat cu succes",
+      "expired": "Expirat"
     }
   },
   "placeholders": {
