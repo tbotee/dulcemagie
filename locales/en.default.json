@@ -294,12 +294,12 @@
   },
   "products": {
     "product": {
-      "add_to_cart": "Add to cart",
-      "adding_to_cart": "Adding...",
-      "added_to_cart": "Added to cart",
-      "add_to_cart_error": "Error adding to cart",
-      "sold_out": "Sold out",
-      "unavailable": "Unavailable"
+      "add_to_cart": "Adaugă în coș ",
+      "adding_to_cart": "Adăugare...",
+      "added_to_cart": "Adăugat în coș",
+      "add_to_cart_error": "Eroare la adăugarea în coș",
+      "sold_out": "Vândut ",
+      "unavailable": "Indisponibil"
     }
   },
   "shopify": {
