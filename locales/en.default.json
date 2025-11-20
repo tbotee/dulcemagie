@@ -285,12 +285,12 @@
     "password": "Parolă ",
     "search": "Căutare ",
     "product_title": "Titlu produs",
-    "collection_title": "Collection title",
-    "blog_posts": "Blog Posts",
-    "blog_post_title": "Title",
-    "blog_post_author": "Author",
-    "blog_post_date": "Date",
-    "blog_post_description": "An excerpt of your blog post's content"
+    "collection_title": "Titlul colecției",
+    "blog_posts": "Articole de blog",
+    "blog_post_title": "Titlu",
+    "blog_post_author": "Autor",
+    "blog_post_date": "Dată ",
+    "blog_post_description": "Un extras din conținutul articolului tău de blog"
   },
   "products": {
     "product": {
