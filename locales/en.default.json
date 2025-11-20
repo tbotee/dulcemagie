@@ -270,7 +270,7 @@
   "gift_cards": {
     "issued": {
       "how_to_use_gift_card": "Folosiți codul cardului cadou online sau codul QR în magazin",
-      "title": "Here's your {{ value }} gift card balance for {{ shop }}!",
+      "title": "Iată {{ value }} soldul cardului cadou pentru {{ shop }}!",
       "subtext": "Your gift card",
       "shop_link": "Visit online store",
       "add_to_apple_wallet": "Add to Apple Wallet",
