@@ -421,7 +421,9 @@
             "missing_contact_method": "Lipsește o metodă de contact validă.",
             "checkout_completion_target_is_missing": "Ținta de finalizare a comenzii lipsește.",
             "invalid_customer_profile": "A fost furnizat un profil de client nevalid.",
-            "customer_profile_access_restricted": "Procesul de finalizare a comenzii nu are permisiunea de a accesa profilul clientului."
+            "customer_profile_access_restricted": "Procesul de finalizare a comenzii nu are permisiunea de a accesa profilul clientului.",
+            "checkout_completion_target_is_invalid_proc": "Ținta de finalizare a comenzii este nevalidă.",
+            "buyer_identity_presentment_currency_does_not_match": "Am întimpinat probleme la procesarea comenzii dumneavoastră. Încercați din nou peste câteva minute."
           }
         },
         "back_to_shipping_method": "Înapoi la metoda de livrare"
