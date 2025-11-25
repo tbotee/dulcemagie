@@ -409,7 +409,8 @@
           },
           "buyer_identity": {
             "business_customer_does_not_match_company": "Persoana de contact a companiei nu are acces la companie.",
-            "customer_account_required": "Autentificați-vă pentru continuare."
+            "customer_account_required": "Autentificați-vă pentru continuare.",
+            "company_location_required": "Clientul trebuie să aleagă o locație a companiei pentru a continua."
           }
         },
         "back_to_shipping_method": "Înapoi la metoda de livrare"
