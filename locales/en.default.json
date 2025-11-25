@@ -379,7 +379,9 @@
           "merchandise": {
             "only_value_constraint": "Numai valorile exacte sunt permise în câmpul pentru produse.",
             "merchandise_not_found": "Nu am găsit produsul",
-            "merchandise_variant_not_found": "Acest tip de produs nu a fost găsit."
+            "merchandise_variant_not_found": "Varianta produsului nu a fost găsit.",
+            "merchandise_not_applicable": "Varianta produsului nu se poate cumpăra.",
+            "mixed_currencies": "Finalizarea comenzii conține articole în valute diferite."
           }
         },
         "back_to_shipping_method": "Înapoi la metoda de livrare"
