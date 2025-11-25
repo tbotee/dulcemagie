@@ -374,8 +374,15 @@
         "errors": {
           "only_empty_terms_accepted": "Această politică acceptă doar termeni goi",
           "session_identifier_not_unique_error": "Ceva a mers prost cu comanda ta, te rugăm să încerci din nou finalizarea comenzii.",
-          "line_item_limit_reached": "A fost atins numărul maxim de articole pe linie."
-        }
+          "line_item_limit_reached": "A fost atins numărul maxim de articole pe linie.",
+          "session_is_already_finished": "Sesiunea de finalizare a comenzii a fost deja finalizată.",
+          "merchandise": {
+            "only_value_constraint": "Numai valorile exacte sunt permise în câmpul pentru produse.",
+            "merchandise_not_found": "Nu am găsit produsul",
+            "merchandise_variant_not_found": "Acest tip de produs nu a fost găsit."
+          }
+        },
+        "back_to_shipping_method": "Înapoi la metoda de livrare"
       }
     }
   }
