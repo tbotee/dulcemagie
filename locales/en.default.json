@@ -389,7 +389,9 @@
             "gift_card_used": "Codul cardului cadou {{code}} este deja atribuit unui card cadou. Codurile sunt formate înainte de comparare.",
             "gift_card_invalid": "Codul cardului cadou {{code}} nu este valid.",
             "gift_card_code_changed": "Codul cardului cadou {{proposed_code}} a fost schimbat în {{formatted_code}} pentru a respecta regulile de formatare.",
-            "gift_card_with_attributes_not_supported": "Cardurile cadou cu atribute personalizate nu sunt acceptate în acest proces de finalizare a comenzii."
+            "gift_card_with_attributes_not_supported": "Cardurile cadou cu atribute personalizate nu sunt acceptate în acest proces de finalizare a comenzii.",
+            "gift_card_with_components_not_supported": "Cardurile cadou cu componente nu sunt acceptate în acest proces de finalizare a comenzii.",
+            "selling_plan_mismatch": "Abonamentul a fost actualizat."
           }
         },
         "back_to_shipping_method": "Înapoi la metoda de livrare"
