@@ -403,7 +403,9 @@
             "maximum_quantity_exceeded": "Cantitatea unor articole depășește limita maximă permisă.",
             "quantity_increment_not_met": "Cantitatea unor articole nu respectă limitele de comandă.",
             "quantity_rules_not_met": "Cantitatea unor articole nu respectă regula de limită pentru cumpărare.",
-            "bundle_requires_components": "Acest pachet de produse nu are componente."
+            "bundle_requires_components": "Acest pachet de produse nu are componente.",
+            "title_too_long": "Titlul produsului este prea lung.",
+            "title_empty": "Titlul produsului este gol."
           }
         },
         "back_to_shipping_method": "Înapoi la metoda de livrare"
