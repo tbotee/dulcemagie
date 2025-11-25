@@ -406,6 +406,10 @@
             "bundle_requires_components": "Acest pachet de produse nu are componente.",
             "title_too_long": "Titlul produsului este prea lung.",
             "title_empty": "Titlul produsului este gol."
+          },
+          "buyer_identity": {
+            "business_customer_does_not_match_company": "Persoana de contact a companiei nu are acces la companie.",
+            "customer_account_required": "Autentificați-vă pentru continuare."
           }
         },
         "back_to_shipping_method": "Înapoi la metoda de livrare"
