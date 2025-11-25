@@ -394,7 +394,10 @@
             "selling_plan_mismatch": "Abonamentul a fost actualizat.",
             "selling_plan_not_supported": "Abonamentele nu sunt acceptate.",
             "selling_plan_not_supported_b2b": "Abonamentele nu sunt acceptate pentru vânzări B2B.",
-            "price_mismatch": "Prețul propus anterior pentru acest produs a fost nevalid și a fost actualizat."
+            "price_mismatch": "Prețul propus anterior pentru acest produs a fost nevalid și a fost actualizat.",
+            "inventory_not_found": "Nu a fost găsit niciun stoc pentru acest produs.",
+            "product_not_published": "Produsul nu este validat.",
+            "product_not_published_in_buyer_location": "Produsul nu este valid în locația cumpărătorului."
           }
         },
         "back_to_shipping_method": "Înapoi la metoda de livrare"
