@@ -382,7 +382,8 @@
             "merchandise_variant_not_found": "Varianta produsului nu a fost găsit.",
             "merchandise_not_applicable": "Varianta produsului nu se poate cumpăra.",
             "mixed_currencies": "Finalizarea comenzii conține articole în valute diferite.",
-            "bundle_products_not_supported_for_b2b": "Articolele grupate nu pot fi adăugate la comenzile B2B pentru această locație."
+            "bundle_products_not_supported_for_b2b": "Articolele grupate nu pot fi adăugate la comenzile B2B pentru această locație.",
+            "gift_card_quantity_mismatch": "Când specificați coduri de card cadou, cantitatea articolului și numărul de coduri de card cadou trebuie să coincidă."
           }
         },
         "back_to_shipping_method": "Înapoi la metoda de livrare"
