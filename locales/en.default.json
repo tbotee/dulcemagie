@@ -416,7 +416,8 @@
             "lost_access_to_company": "Clientul și-a pierdut accesul la orice companie.",
             "contact_info_does_not_match_customer_account": "Informațiile de contact trebuie să corespundă contului în care sunteți conectat.",
             "phone_number_does_not_match_expected_pattern": "Numărul de telefon specificat nu corespunde formatului așteptat. ",
-            "email_required": "Este necesară o adresă de e-mail atunci când produsul este achiziționat printr-un abonament."
+            "email_required": "Este necesară o adresă de e-mail atunci când produsul este achiziționat printr-un abonament.",
+            "email_domain_is_invalid": "Domeniul specificat nu poate fi rezolvat."
           }
         },
         "back_to_shipping_method": "Înapoi la metoda de livrare"
