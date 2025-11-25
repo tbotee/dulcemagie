@@ -417,7 +417,10 @@
             "contact_info_does_not_match_customer_account": "Informațiile de contact trebuie să corespundă contului în care sunteți conectat.",
             "phone_number_does_not_match_expected_pattern": "Numărul de telefon specificat nu corespunde formatului așteptat. ",
             "email_required": "Este necesară o adresă de e-mail atunci când produsul este achiziționat printr-un abonament.",
-            "email_domain_is_invalid": "Domeniul specificat nu poate fi rezolvat."
+            "email_domain_is_invalid": "Domeniul specificat nu poate fi rezolvat.",
+            "missing_contact_method": "Lipsește o metodă de contact validă.",
+            "checkout_completion_target_is_missing": "Ținta de finalizare a comenzii lipsește.",
+            "invalid_customer_profile": "A fost furnizat un profil de client nevalid."
           }
         },
         "back_to_shipping_method": "Înapoi la metoda de livrare"
