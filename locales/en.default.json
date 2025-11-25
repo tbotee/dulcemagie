@@ -392,7 +392,9 @@
             "gift_card_with_attributes_not_supported": "Cardurile cadou cu atribute personalizate nu sunt acceptate în acest proces de finalizare a comenzii.",
             "gift_card_with_components_not_supported": "Cardurile cadou cu componente nu sunt acceptate în acest proces de finalizare a comenzii.",
             "selling_plan_mismatch": "Abonamentul a fost actualizat.",
-            "selling_plan_not_supported": "Abonamentele nu sunt acceptate."
+            "selling_plan_not_supported": "Abonamentele nu sunt acceptate.",
+            "selling_plan_not_supported_b2b": "Abonamentele nu sunt acceptate pentru vânzări B2B.",
+            "price_mismatch": "Prețul propus anterior pentru acest produs a fost nevalid și a fost actualizat."
           }
         },
         "back_to_shipping_method": "Înapoi la metoda de livrare"
