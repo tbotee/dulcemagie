@@ -397,7 +397,9 @@
             "price_mismatch": "Prețul propus anterior pentru acest produs a fost nevalid și a fost actualizat.",
             "inventory_not_found": "Nu a fost găsit niciun stoc pentru acest produs.",
             "product_not_published": "Produsul nu este validat.",
-            "product_not_published_in_buyer_location": "Produsul nu este valid în locația cumpărătorului."
+            "product_not_published_in_buyer_location": "Produsul nu este valid în locația cumpărătorului.",
+            "duplicated_stable_id": "Această linie de produs are același ID stabil ca o altă linie.",
+            "minimum_quantity_not_met": "Cantitatea produselor nu ajunge pentru limita minimă solicitată."
           }
         },
         "back_to_shipping_method": "Înapoi la metoda de livrare"
