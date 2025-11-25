@@ -399,7 +399,11 @@
             "product_not_published": "Produsul nu este validat.",
             "product_not_published_in_buyer_location": "Produsul nu este valid în locația cumpărătorului.",
             "duplicated_stable_id": "Această linie de produs are același ID stabil ca o altă linie.",
-            "minimum_quantity_not_met": "Cantitatea produselor nu ajunge pentru limita minimă solicitată."
+            "minimum_quantity_not_met": "Cantitatea produselor nu ajunge pentru limita minimă solicitată.",
+            "maximum_quantity_exceeded": "Cantitatea unor articole depășește limita maximă permisă.",
+            "quantity_increment_not_met": "Cantitatea unor articole nu respectă limitele de comandă.",
+            "quantity_rules_not_met": "Cantitatea unor articole nu respectă regula de limită pentru cumpărare.",
+            "bundle_requires_components": "Acest pachet de produse nu are componente."
           }
         },
         "back_to_shipping_method": "Înapoi la metoda de livrare"
