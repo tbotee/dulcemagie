@@ -381,7 +381,8 @@
             "merchandise_not_found": "Nu am găsit produsul",
             "merchandise_variant_not_found": "Varianta produsului nu a fost găsit.",
             "merchandise_not_applicable": "Varianta produsului nu se poate cumpăra.",
-            "mixed_currencies": "Finalizarea comenzii conține articole în valute diferite."
+            "mixed_currencies": "Finalizarea comenzii conține articole în valute diferite.",
+            "bundle_products_not_supported_for_b2b": "Articolele grupate nu pot fi adăugate la comenzile B2B pentru această locație."
           }
         },
         "back_to_shipping_method": "Înapoi la metoda de livrare"
