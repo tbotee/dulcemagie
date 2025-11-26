@@ -135,7 +135,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h2>Our signature product</h2>",
+                "text": "<p>Produsul nostru emblematic<br/><br/></p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -160,7 +160,7 @@
             "text_WmnjVz": {
               "type": "text",
               "settings": {
-                "text": "<p>Made with care and unconditionally loved by our customers, this signature bestseller exceeds all expectations.</p>",
+                "text": "<p>Realizat cu grijă și iubit necondiționat de clienții noștri, acest bestseller emblematic depășește orice așteptare.<br/><br/></p>",
                 "width": "fit-content",
                 "max_width": "narrow",
                 "alignment": "left",
