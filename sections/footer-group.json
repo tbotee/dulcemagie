@@ -84,7 +84,7 @@
               "type": "text",
               "name": "Description",
               "settings": {
-                "text": "<p><br/>Vă oferim dulciuri și produse de patiserie tradiționale românești, autentice, încă din 1994. Preparăm cu drag, servim cu mândrie.<br/><br/></p>",
+                "text": "<p>Vă oferim dulciuri și produse de patiserie tradiționale românești, autentice, încă din 1994. Preparăm cu drag, servim cu mândrie.<br/><br/></p>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "center",
@@ -254,7 +254,7 @@
               "type": "text",
               "name": "Heading",
               "settings": {
-                "text": "<p><br/>Linkuri rapide<br/><br/></p>",
+                "text": "<p>Linkuri rapide<br/><br/></p>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "center",
